@@ -1,0 +1,10 @@
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulation\bin\Debug\PricesSimulation.dll
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulation\bin\Debug\PricesSimulation.pdb
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulation\obj\Debug\PricesSimulator.Business.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulation\obj\Debug\PricesSimulation.dll
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulation\obj\Debug\PricesSimulation.pdb
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulator.Business\bin\Debug\PricesSimulation.dll
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulator.Business\bin\Debug\PricesSimulation.pdb
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulator.Business\obj\Debug\PricesSimulator.Business.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulator.Business\obj\Debug\PricesSimulation.dll
+C:\Users\Anton\Documents\Visual Studio 2012\Projects\PricesSimulator\PricesSimulator.Business\obj\Debug\PricesSimulation.pdb
